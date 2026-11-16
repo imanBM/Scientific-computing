@@ -17,7 +17,6 @@ Python implementations and documentation covering core numerical methods, linear
 
 1. Install the required libraries:
    ```bash
-   pip install numpy scipy matplotlib
    pip install numpy
    pip install scipy
    pip install matplotlib
