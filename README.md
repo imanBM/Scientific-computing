@@ -2,7 +2,7 @@
 
 Python implementations and documentation covering core numerical methods, linear algebra, root finding, curve fitting, calculus, differential equations, optimization, and Monte Carlo simulations.
 
-## Project Structure
+## Structure
 
 * `Code` — Executable Python scripts (`Task_02.py` through `Task_20.py`) modeling practical, scenarios.
 * `docs` — Task by task documentation (`Task_02.md` through `Task_20.md`) covering input values, parameter change and its impact, meaning of the output in words and and a new related case to the impementation.
